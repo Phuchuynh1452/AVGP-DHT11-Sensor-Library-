@@ -1,0 +1,6 @@
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+avgNhietDoP	KEYWORD2
+avgDoAmP	KEYWORD2
